@@ -16,7 +16,7 @@ Firefox 35.0.1 / 31.8.0 ESR - last unofficial working version for Windows 2000 S
  
 Firefox 48.0.2 / 45.9.0 ESR - last unofficial working version for Windows XP Release Candidate 1 build 2474 - Windows XP Release Candidate 1 build 2509 with kernelxp.dll by roytam1with kernelxp.dll by roytam1
 
-Firefox 52.9.0 ESR - last unofficial working version for Windows 98/ME with KernelEx + Core, Windows 2000 with Extended Kernel (up to 53.0.3 unofficially), and Windows XP Release Candidate 2 build 2517 - Windows XP SP2 build 2600.1213 with kernelxp.dll by roytam1
+Firefox 52.9.0 ESR - last unofficial working version for Windows 98/ME with KernelEx + Core, Windows 2000 with Extended Kernel (up to 53.0.3 unofficially), and Windows XP Release Candidate 2 build 2517 - Windows XP SP2 build 2600.1213 with kernelxp.dll by roytam1, Windows Vista build 5360 - (up to 54.0.1 unofficially)
 
  For starting with Windows XP build 2600.2055+, it does not need kernelxp.dll wrappers by roytam1 and thus can run since DecodePointer/EncodePointer functions were added.
  
