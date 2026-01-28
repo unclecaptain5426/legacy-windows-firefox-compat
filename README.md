@@ -28,6 +28,12 @@ This guide is an unofficial, community-made compatibility guide. It is NOT affil
 
 All binaries must be obtained by the user from official sources only. This guide does not provide or link to any downloads.
 
+# SCREENSHOTS
+
+<img width="640" height="400" alt="Windows Vista build 5360-2026-01-27-17-51-16" src="https://github.com/user-attachments/assets/18f43e83-7f88-4e2e-b115-35de599ff888" />
+
+Firefox 54.0.1 on Windows Vista build 5360
+
 # WORD OF CAUTION
 
 Please do not use an older version of Mozilla Firefox as a daily driver. It must be for testing purposes only.
