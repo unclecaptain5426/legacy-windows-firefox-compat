@@ -30,11 +30,11 @@ All binaries must be obtained by the user from official sources only. This guide
 
 # SCREENSHOTS
 
-<img width="1600" height="900" alt="VirtualBox_vanilla Windows 2000_19_08_2025_20_36_10" src="https://github.com/user-attachments/assets/7442e7c6-c03e-4f74-9542-da5b2f9e1cc7" />
+<img width="640" height="400" alt="VirtualBox_vanilla Windows 2000_19_08_2025_20_36_10" src="https://github.com/user-attachments/assets/7442e7c6-c03e-4f74-9542-da5b2f9e1cc7" />
 
 Firefox 31.8.0 ESR on Windows 2000 SP4 without Extended Kernel
 
-<img width="1600" height="900" alt="VirtualBox_vanilla Windows 2000_19_08_2025_20_10_37" src="https://github.com/user-attachments/assets/30fff2af-b5cc-418b-a06a-4952e191a77f" />
+<img width="640" height="400" alt="VirtualBox_vanilla Windows 2000_19_08_2025_20_10_37" src="https://github.com/user-attachments/assets/30fff2af-b5cc-418b-a06a-4952e191a77f" />
 
 Firefox 35.0.1 on Windows 2000 SP4 without Extended Kernel
 
