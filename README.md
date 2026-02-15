@@ -44,7 +44,7 @@ Firefox 54.0.1 on Windows Vista build 5360
 
 # WORD OF CAUTION
 
-Please do not use an older version of Mozilla Firefox as a daily driver. It must be for testing purposes only.
+Please do not use an older version of Mozilla Firefox for reasons other than using Browservice.
 
 # BUGS
 
@@ -60,7 +60,7 @@ Firefox 36+ is not known to work on Windows 2000 SP4 + Update Rollup 1 (without 
 
  Windows XP Service Pack 2 pre-release builds:
 
-Firefox 36 - 48.0.2 / 45.9.0 ESR 
+Firefox 36 - 48.0.2 / 45.9.0 ESR complains about the GetLogicalProcessorInformation function is missing on KERNEL32.DLL and refuses to load. This can be fixed by changing the function to "FindNextFileA" on msvcr120.dll.
 
 # NOTES
 
